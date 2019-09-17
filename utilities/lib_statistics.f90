@@ -1,6 +1,6 @@
 !! ***
-!! Module to perform a set of basic statistical analysis on a defined derived type variable that stores a 1-D Array with scalar values, 
-!!  an auxiliary "label", and procedures to compute arithmetic mean, median, standard deviation, variance and quartiles.
+!! Module to perform a set of basic statistical analysis on a defined derived type variable that stores a 1-D Array with scalar 
+!!  values, an auxiliary "label", and procedures to compute arithmetic mean, median, standard deviation, variance and quartiles.
 !!
 !! @author: Bruno Castaldi
 !! @email : castaldi@usp.br
