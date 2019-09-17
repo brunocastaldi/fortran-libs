@@ -34,7 +34,7 @@ use netcdf
 
 implicit none
 
-!! PRIVATE DERIVED TYPES TO REPRESENT  ======================================================================================================= !!
+!! PRIVATE DERIVED TYPES TO REPRESENT COORDINATES AND FIELDS IN NETCDF ========================================================== !!
 type, private :: Dimension_1D
      character(:), allocatable :: name_in_file         ! as stored in netcdf file
      integer                   :: dim_id, var_id       ! the netcdf ID
